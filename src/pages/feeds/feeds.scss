@@ -1,0 +1,45 @@
+.top-icons-block {
+  display: flex;
+  justify-content: space-between;
+}
+
+.top-right-icons-block {
+  display: flex;
+  width: 145px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.home-icon {
+  width: 24px;
+  height: 25.14px;
+  color: #262626;
+}
+
+.stories {
+  display: flex;
+  justify-content: space-between;
+}
+
+.exit-icon {
+  width: 25px;
+  height: 20.5px;
+  color: #262626;
+}
+
+.gitogram-icon {
+  width: 174px;
+  height: 35,51px;
+}
+
+.photo-icon, .gitogram-icon, .exit-icon, .home-icon {
+  cursor: pointer;
+}
+
+.content {
+  width: 1200px;
+  height: 100%;
+  margin: 0 auto;
+  padding: 20px;
+  background: #ffffff;
+}

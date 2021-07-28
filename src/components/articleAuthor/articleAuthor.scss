@@ -1,0 +1,21 @@
+.author-block {
+  display: flex;
+  align-items: center;
+  margin-bottom: 16px;
+
+  .author-icon {
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+  }
+
+  .nickname {
+    padding-left: 14px;
+    font-family: "Inter", Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 18px;
+    letter-spacing: -0.1px;
+  }
+}

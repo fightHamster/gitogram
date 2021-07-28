@@ -1,0 +1,50 @@
+[
+  {
+    "id": "0",
+    "avatar": "https://picsum.photos/300/300",
+    "username": "joshua_l",
+    "articleName": "Vue.js",
+    "articleDesc": "JavaScript framework for building interactive web applications",
+    "comments": [
+      {
+        "id": "0",
+        "username": "joshua_l",
+        "text": "Enable performance measuring in production, at the user's request"
+      },
+      {
+        "id": "1",
+        "username": "Camille",
+        "text": "It's impossible to Rename an Inherited Slot"
+      },
+      {
+        "id": "2",
+        "username": "Marselle",
+        "text": "transition-group with flex parent causes removed items to fly"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "avatar": "https://picsum.photos/300/300",
+    "username": "Camille",
+    "articleName": "React.js",
+    "articleDesc": "Open source JavaScript library used for designing user interfaces",
+    "comments": [
+      {
+        "id": "0",
+        "username": "Camille",
+        "text": "It's impossible to Rename an Inherited Slot"
+      },
+      {
+        "id": "1",
+        "username": "Marselle",
+        "text": "transition-group with flex parent causes removed items to fly"
+      },
+      {
+        "id": "2",
+        "username": "joshua_l",
+        "text": "Enable performance measuring in production, at the user's request"
+      }
+    ]
+  }
+]

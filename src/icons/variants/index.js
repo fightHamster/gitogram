@@ -1,0 +1,7 @@
+export { default as home } from './home'
+export { default as exitBtn } from './exitBtn'
+export { default as photo } from './photo'
+export { default as gitogramIcon } from './gitogramIcon'
+export { default as triangle } from './triangle'
+export { default as btnWithCount } from './btnWithCount'
+export { default as fork } from './fork'

@@ -1,0 +1,28 @@
+.avatar {
+  width: 92px;
+  height: 92px;
+  box-sizing: border-box;
+  border-radius: 50%;
+  padding: 4px;
+  border: 2px solid #A6328D;
+  transition: all 0.3s ease-in;
+
+  &:hover {
+    border-color: #3F51B5;
+  }
+
+  .avatar_img {
+    border-radius: 50%;
+  }
+}
+
+
+
+.username {
+  padding-top: 10px;
+  font-family: Inter, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 10px;
+}
